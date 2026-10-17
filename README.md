@@ -13,6 +13,20 @@ CareLens is a Streamlit app for health education and symptom tracking. It combin
 - Download an individual symptom summary or session history as a PDF.
 - Filter the demo doctor directory, optionally load a doctor CSV, or open external directory searches.
 
+## Screenshots
+
+### Dashboard
+
+![CareLens dashboard with health insight metrics and symptom charts](screenshots/dashboard.png)
+
+### Symptom checker
+
+![CareLens symptom checker with symptom selection and observation fields](screenshots/symptom-checker.png)
+
+### Symptom summary
+
+![CareLens symptom summary with possible explanations and general guidance](screenshots/symptom-summary.png)
+
 ## Run locally
 
 You need Python and pip installed.
