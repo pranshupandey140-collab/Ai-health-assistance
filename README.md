@@ -4,6 +4,7 @@ CareLens is a Streamlit app for health education and symptom tracking. It combin
 
 ## Features
 
+- Dark-themed interface with a transparent Streamlit header that blends into the app background.
 - Select symptoms or describe them in plain language to match entries in the built-in guide.
 - View possible explanations, relevant specialties, general guidance, and safe at-home observations.
 - Record symptom duration and self-rated severity.

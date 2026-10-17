@@ -29,6 +29,7 @@ st.markdown("""
 <style>
 :root { color-scheme: dark; }
 .stApp { background: radial-gradient(circle at 15% 0%, #14253d 0%, #0b1220 38%, #080d17 100%); color: #e5edf8; }
+.stAppHeader, [data-testid="stHeader"] { background: transparent; }
 .block-container { padding-top: 1.25rem; padding-bottom: 2.5rem; max-width: 1500px; }
 [data-testid="stSidebar"] { background: linear-gradient(180deg, #101a2b 0%, #0b1220 100%); border-right: 1px solid #26364c; }
 .hero { padding: 1.5rem 1.7rem; border-radius: 22px; background: linear-gradient(120deg, #172554 0%, #164e63 58%, #065f46 100%); border: 1px solid #31566d; color: white; margin-bottom: 1rem; box-shadow: 0 14px 40px rgba(0,0,0,.25); }
